@@ -44,6 +44,7 @@
 ### 仓库版本地址
 
 * github - mysql ：[https://github.com/taichengkeji/mnxl-mysql](https://github.com/taichengkeji/mnxl-mysql)
+* gitee - mysql ：[https://gitee.com/shanghai-taicheng-information/mnxl-mysql](https://gitee.com/shanghai-taicheng-information/mnxl-mysql)
 
 ### 学生系统功能
 
